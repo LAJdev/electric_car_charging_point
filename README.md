@@ -1,3 +1,3 @@
 # electric_car_charging_point
 
-A new Flutter project.
+An app that allows you to check availability of charging points in a city.
